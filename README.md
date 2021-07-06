@@ -1,5 +1,4 @@
 # py3-pinterest
-# test
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Unofficial Pinterest API implemented in python 3 that can do all Pinterest tasks like comment, pin, repin, follow, unfollow and more.
